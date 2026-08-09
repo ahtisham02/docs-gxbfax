@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-hont93.linetogel7aud.cyou/sitemap.xml
